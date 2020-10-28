@@ -1,2 +1,2 @@
 # invie-github
-Tus mejores guitarras invie-sibles (tutorial GIT y Github de Platzi)
+Tus mejores guitarras invie-sibles by @platzi (tutorial GIT y Github de Platzi)
